@@ -53,7 +53,7 @@ const ContactPage = () => {
 
       {/*  */}
       <div className="flex justify-center gap-14 mt-8">
-        <Link href="mailto:sivashankarjuthuka8@gmail.com">
+        <Link href="mailto:sivashankar.juthuka@gmail.com">
           <Image
             src={gmailLogo}
             alt="Email Address"
