@@ -22,7 +22,7 @@ const HomePage = () => {
           </span>
 
           <span className="mr-4 bg-black text-white border border-[#413d3d] hover:bg-[#7B93FE] text-[14px] hover:text-black hover:duration-300 ease-in transition-all p-1 px-2 rounded-lg cursor-default">
-            Machine Learning  
+            Machine Learning
           </span>
           <span className="bg-black text-white border border-[#413d3d] hover:bg-[#7B93FE] text-[14px] hover:text-black hover:duration-300 ease-in transition-all p-1 px-2 rounded-lg cursor-default">
             Deep Learning
@@ -51,11 +51,17 @@ const HomePage = () => {
             Get in touch
           </Link>
           <Link
-            href="https://drive.google.com/uc?export=download&id=1qKwNsNzfD1GQ1HtGr_iih1atCqZg8MMI"
+            href="https://drive.google.com/file/d/1Lqvxcdi041DottYtnHWt7ay6ht-vRIWZ/view?usp=drivesdk"
+            className="bg-black border border-[#413d3d] hover:bg-[#161616] hover:duration-100 ease-in transition-all py-3 px-6 text-[16px] mr-2 rounded-lg font-bold"
+          >
+            View Resume
+          </Link>
+          {/* <Link
+            href="https://drive.google.com/uc?export=download&id=1Lqvxcdi041DottYtnHWt7ay6ht-vRIWZ"
             className="bg-black border border-[#413d3d] hover:bg-[#161616] hover:duration-100 ease-in transition-all py-3 px-6 text-[16px] mr-2 rounded-lg font-bold"
           >
             Download Resume
-          </Link>
+          </Link> */}
         </div>
       </div>
       <div
