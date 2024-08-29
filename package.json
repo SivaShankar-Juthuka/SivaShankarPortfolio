@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/font": "^14.2.4",
     "@splinetool/react-spline": "^3.1.0",
     "@splinetool/runtime": "^1.6.0",
     "@tabler/icons-react": "^3.9.0",
@@ -17,7 +16,7 @@
     "framer-motion": "^11.2.13",
     "gray-matter": "^4.0.3",
     "mini-svg-data-uri": "^1.4.4",
-    "next": "14.2.4",
+    "next": "^14.2.7",
     "next-mdx-remote": "^5.0.0",
     "react": "^18",
     "react-dom": "^18",
